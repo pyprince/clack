@@ -6,7 +6,7 @@
 </h1>
 
 <h4 align="center">
-   Clack - Next.JS</a>.
+   Clack - Next.JS (Similar to Slack)
 </h4>
 
 <p align="center">
